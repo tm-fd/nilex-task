@@ -1,1 +1,15 @@
-{ "menuItems" : [ { "title": "Home", "link": "/home" }, { "title": "About", "link": "/about" }, { "title": "Work", "link": "/work" }, { "title": "Contact", "link": "/contact" } ] }
+{ 
+    "menuItems" : 
+  [ 
+    { "title": "Home", "link": "/home" }, 
+    { "title": "About", "link": "/about" }, 
+    { "title": "Work", "link": "/work" }, 
+    { "title": "Contact", "link": "/contact" } 
+  ],
+  "bannerData": 
+  [
+    {"id": 1, "imgURL": "https://i.ibb.co/Tv6F4fT/slider.png", "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eu eratiuy lacus, vel congue mauris. Fusce velitaria justo, faucibus eu."},
+    {"id": 2, "imgURL": "https://i.ibb.co/Tv6F4fT/slider.png", "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eu eratiuy lacus, vel congue mauris. Fusce velitaria justo, faucibus eu."},
+    {"id": 3, "imgURL": "https://i.ibb.co/Tv6F4fT/slider.png", "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eu eratiuy lacus, vel congue mauris. Fusce velitaria justo, faucibus eu."}
+  ]
+}
