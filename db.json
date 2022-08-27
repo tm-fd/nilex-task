@@ -8,8 +8,16 @@
   ],
   "bannerData": 
   [
-    {"id": 1, "imgURL": "https://i.ibb.co/Tv6F4fT/slider.png", "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eu eratiuy lacus, vel congue mauris. Fusce velitaria justo, faucibus eu."},
-    {"id": 2, "imgURL": "https://i.ibb.co/Tv6F4fT/slider.png", "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eu eratiuy lacus, vel congue mauris. Fusce velitaria justo, faucibus eu."},
-    {"id": 3, "imgURL": "https://i.ibb.co/Tv6F4fT/slider.png", "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eu eratiuy lacus, vel congue mauris. Fusce velitaria justo, faucibus eu."}
+    {"id": 1, "imgURL": "https://i.ibb.co/rx8KWRQ/slider.png", "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eu eratiuy lacus, vel congue mauris. Fusce velitaria justo, faucibus eu."},
+    {"id": 2, "imgURL": "https://i.ibb.co/rx8KWRQ/slider.png", "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eu eratiuy lacus, vel congue mauris. Fusce velitaria justo, faucibus eu."},
+    {"id": 3, "imgURL": "https://i.ibb.co/rx8KWRQ/slider.png", "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eu eratiuy lacus, vel congue mauris. Fusce velitaria justo, faucibus eu."}
+  ],
+    "sliderData": 
+  [
+    {"id": 1, "title": "Project boy and girl", "imgURL": "https://i.ibb.co/dtmy8zg/project-boy-and-girl.jpg", "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eu erat lacus, vel congue mauris. Fusce velit justo, faucibus eu sagittis."},
+    {"id": 2, "title": "Dark UI Kit Freebie", "imgURL": "https://i.ibb.co/BgFz3fQ/project-buttons.jpg", "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eu erat lacus, vel congue mauris. Fusce velit justo, faucibus eu sagittis."},
+    {"id": 3, "title": "Project jes", "imgURL": "https://i.ibb.co/Qvt375n/project-jes.jpg", "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eu erat lacus, vel congue mauris. Fusce velit justo, faucibus eu sagittis."},
+      {"id": 4, "title": "Project jezik", "imgURL": "https://i.ibb.co/0CXHGSf/project-jezik.jpg", "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eu erat lacus, vel congue mauris. Fusce velit justo, faucibus eu sagittis."},
+      {"id": 5, "title": "Project social media", "imgURL": "https://i.ibb.co/6gJHwxn/project-social-media.jpg", "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eu erat lacus, vel congue mauris. Fusce velit justo, faucibus eu sagittis."}
   ]
 }
